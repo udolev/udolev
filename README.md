@@ -8,17 +8,17 @@ I'm a Computer Science graduate student at Bar Ilan University, focusing on AI a
   - AI and Data Science specialization
 - **B.Sc. Computer Science** - Lev Academic Center
 
-## 🚀 Projects
+## 🚀 Current Projects
 *Watch this space - exciting updates coming soon!*
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=udolev&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=udolev)
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uriel-dolev/)
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x)](https://twitter.com/UrielDolev)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:urieldolev2005@gmail.com)
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=udolev&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=udolev)
 
 <!---
 udolev/udolev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
